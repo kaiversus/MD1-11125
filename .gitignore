@@ -1,0 +1,21 @@
+# Visual Studio files specific to this computer
+.vs/
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+
+# Build output (both the solution output and intermediate files)
+/x64/
+/Win32/
+/Module_1/x64/
+/Module_1/Win32/
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.ipch
+
+# Reports generated when the program runs
+*.exe-[0-9]*.txt
